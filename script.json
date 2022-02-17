@@ -1,1 +1,1 @@
-{"scriptinfo":[{"script":"print('Works!')", "start":"game.Lighting.Ambient = Color3.fromRGB(0,0,0)"}]}
+{"scriptinfo":[{"script":"print('Works!')", "b":"game.Lighting.Ambient = Color3.fromRGB(0,0,0)"}]}
